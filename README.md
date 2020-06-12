@@ -4,4 +4,4 @@ Database + Documentation for a cosmetics/makeup shop, the documentation includes
 - ERD
 - Mapping
 - Some SQL Queries
-.
+
